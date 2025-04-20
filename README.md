@@ -10,7 +10,7 @@ Aqui você encontrará meus projetos de estudo, cada um marcando uma etapa do me
 
 ---
 
-## 🌱 Sobre mim
+## 🧠 Sobre mim
 
 🎓 Estudando Front-end pelo [DevClub](https://aulas.devclub.com.br/m/home)  
 🛠️ Focado em HTML, CSS, JavaScript e boas práticas de código  
