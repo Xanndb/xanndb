@@ -12,7 +12,7 @@ Aqui você encontrará meus projetos de estudo, cada um marcando uma etapa do me
 
 ## 🌱 Sobre mim
 
-🎓 Estudando Front-end pelo [DevClub](https://devclub.com.br)  
+🎓 Estudando Front-end pelo [DevClub]([https://devclub.com.br](https://aulas.devclub.com.br/m/home)  
 🛠️ Focado em HTML, CSS, JavaScript e boas práticas de código  
 🎯 Objetivo: conquistar minha primeira vaga como dev e continuar crescendo todos os dias  
 📆 Início da jornada: **03/04/2025**
