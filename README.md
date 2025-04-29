@@ -13,7 +13,6 @@ Aqui você encontrará meus projetos de estudo, cada um marcando uma etapa do me
 
 🎓 Estudando Front-end pelo [DevClub](https://aulas.devclub.com.br/m/home)  
 🛠️ Focado em HTML, CSS, JavaScript e boas práticas de código  
-🎯 Objetivo: conquistar minha primeira vaga como dev e continuar crescendo todos os dias  
 📆 Início da jornada: **03/04/2025**
 
 ---
@@ -46,6 +45,7 @@ Lógica de programação
 --- 
 
 ## 🤝 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/alexandre-bezerra-85b4b0172/))  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/xanndb/?hl=pt-br))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-bezerra-85b4b0172/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xanndb/?hl=pt-br)
+
 
